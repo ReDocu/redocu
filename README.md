@@ -84,5 +84,4 @@ Here are some ideas to get you started:
 
 채용 제안과 헤드헌팅, 강의·교육 제안, 프로젝트 협업, 만든 도구에 대한 피드백까지 모두 환영합니다.
 
-- 문의: [redocu.github.io/#contact](https://redocu.github.io/#contact)
 - Email: dlehrb103@gmail.com
