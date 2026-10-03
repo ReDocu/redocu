@@ -35,10 +35,10 @@
 | 프로젝트 | 설명 | 링크 |
 | --- | --- | --- |
 | **EQMUX** | 하나의 git 저장소를 AI 에이전트 팀이 함께 작업하고 사람이 관제하는 Windows 데스크톱 앱. | [사이트](https://eqmux-web-site.vercel.app/ko/) · [다운로드](https://github.com/ReDocu/EQMUX/releases/latest) · [Repo](https://github.com/ReDocu/EQMUX) |
-| **ClaudeCockpit** `v0.3` | 여러 프로젝트의 Claude Code 세션을 한 화면에서 관리·모니터링하는 로컬 대시보드. | [기술문서](https://redocu.github.io/project/ClaudeCockpit/Tech_document.html) · [Repo](https://github.com/ReDocu/ClaudeCodeTemplate) |
+| **ClaudeCockpit** `v0.3` | 여러 프로젝트의 Claude Code 세션을 한 화면에서 관리·모니터링하는 로컬 대시보드. | [기술문서](https://redocu.github.io/project/ClaudeCockpit/Tech_document.html) · [Repo](https://github.com/Redocu-Backup-Management/ClaudeCodeTemplate) |
 | **팀 워크스페이스** | 메뉴얼·일정·채팅을 한 자리에 모은 소규모 팀의 운영 허브. | [서비스](https://team-workspace-zeta.vercel.app) · [기술문서](https://redocu.github.io/project/COS/Tech_document.html) |
 | **가상 이력서 시뮬레이션** | 이력서를 등록하면 128명 캐릭터 코퍼스와의 성향 근접도를 계산하는 시뮬레이션. | [기술문서](https://redocu.github.io/project/VRS/Tech_document.html) · [Repo](https://github.com/ReDocu/ResumeAnalyze) |
-| **EduCraft** | 책 제작(BookCraft), 학습 관리(LMSCraft), 강의 탐색·리뷰(LecView)를 하나로 묶은 학습 플랫폼. | [서비스](http://www.eqment.store/) · [Repo](https://github.com/ReDocu/EduCraft) |
+| **EduCraft** | 책 제작(BookCraft), 학습 관리(LMSCraft), 강의 탐색·리뷰(LecView)를 하나로 묶은 학습 플랫폼. | [서비스](http://www.eqment.store/) · [Repo](https://github.com/Redocu-Backup-Management/EduCraft) |
 
 ## 게임 · 프레임워크
 
@@ -64,9 +64,9 @@
 
 ## 교육
 
-- **디벨로퍼로켓** (전 경일게임아카데미) — 게임 클라이언트·콘텐츠 개발 (2019.09 ~ 2020.03) · [Repo](https://github.com/ReDocu/KYGameAcademy)
+- **디벨로퍼로켓** (전 경일게임아카데미) — 게임 클라이언트·콘텐츠 개발 (2019.09 ~ 2020.03) · [Repo](https://github.com/Redocu-Backup-Management/KYGameAcademy)
 - **MBC컴퓨터아카데미** — 비전 기반 AI 모델 생성 과정 수료 (2023.09 ~ 2024.05)
-- **코드캠프** — Claude Code 중심 웹 개발 과정 진행 중 (2026.06 ~ 2026.09) · [Repo](https://github.com/ReDocu/Sesac_CC_ClaudeCode)
+- **코드캠프** — Claude Code 중심 웹 개발 과정 진행 중 (2026.06 ~ 2026.09) · [Repo](https://github.com/Redocu-Backup-Management/Sesac_CC_ClaudeCode)
 
 ## 이렇게 일합니다
 
